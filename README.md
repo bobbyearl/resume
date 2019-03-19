@@ -1,27 +1,32 @@
-# [Bobby Earl](https://bobbyearl.com)
+# Bobby Earl
 
-## Previous Clearances
+1757 Manassas Drive, Charleston, SC 29414
+843-513-2422, bobby@bobbyearl.com
 
-- Department of Defense: TOP SECRET
-- Immigration and Customs Enforcement: T-2
+- http://bobbyearl.com
+- https://github.com/blackbaud-bobbyearl
+- https://github.com/bobbyearl
 
 ## Education
 
-Bachelor of Science in Computer Science, Physics minor  
+Bachelor of Science in Computer Science, Physics minor
 Winthrop University, 2005
 
 ## Experience
 
-### Staff Software Engineer - Blackbaud
+### Principal Software Engineer - Core Services - Blackbaud
 
-*09/2016 - Present*
+*07/2016 - present*
 
-- Created [SKY UX CLI](https://github.com/blackbaud/skyux-cli), a node-based CLI for automatically generating Angular applications based on a user's file system.
-- Contributed to Blackbaud's continuous delivery pipeline, utilizing VSTS, NPM, and Azure.
+- Created SKY UX CLI, a NodeJS-based CLI tool for automating serving, building, and testing Angular single page applications.
+- Implemented Browserstack integration and supportal for all unit and end-to-end front-end testing.
+- Implemented versioned VSTS pipelines for testing, building, and deploying single page applications to Azure.
+- Implemented dotnet core web host to surface single page applications.
+- Implemented AWS Cloudflare caching layer for all statically deployed assets.
 
 ### Senior Software Engineer - Blackbaud
 
-*07/2014 - 09/2016*
+*07/2014 - 07/2016*
 
 - Contributed in creating Blackbaud's first Open Source UX framework - [SKY UX](https://skyux.developer.blackbaud.com).  An AngularJS/Bootstrap library for consumption across entire product suite.  Focused on automated unit / visual regression testing via Travis CI, BrowserStack, and Coveralls.
 - Created [Stache](https://github.com/blackbaud/stache) - an npm-deployed documentation tool for conversion of HTML, Markdown, JSON, .NET code comments, and JSDoc code comments into responsive websites, via automated deployments from GitHub to Azure.
@@ -40,12 +45,12 @@ Winthrop University, 2005
 
 ### Systems Engineer - VarnerMiller
 
-*07/2008 - 05/2013*  
+*07/2008 - 05/2013*
 *02/2006 - 11/2006*
 
 As Systems Engineer:
 
-- Developed XML-driven delivery platforms, known as the VarnerMiller Learning Environment (VLE) in several core languages, including ActionScript 3, JavaScript, and PHP.
+- Developed XML drive delivery platforms, known as the VarnerMiller Learning Environment (VLE) in several core languages, including ActionScript 3, JavaScript, and PHP.
 - Using the VLE platform, delivered SCORM conformant, Section 508 compliant training courses to over 10 federal agencies and private citizens, including the Department of Defense, Department of Homeland Security, FDA, and USDA.
 - For a national Department of Education assessment, created C# architecture to manage game state, scene logic, and client API integration for Unity3D games.
 - Redesigned, implemented, and maintained website and social media presence.
@@ -79,28 +84,8 @@ Internal duties included:
 - Created ASP web applications including real-time computer lab usage reporting and mandatory student employee quizzes, both with Microsoft SQL Server integration.
 - Converted mandatory university-wide theme into valid W3C, Section 508 theme and implemented for all IT sites.
 
-## Technical Skills
-
-- Adobe Creative Suite
-- Blackbaud Raiser's Edge and Blackbaud NetCommunity
-- Build technologies: Bower, Grunt, NPM, Webpack
-- Computer hardware and networking knowledge
-- Database technologies: Microsoft SQL Server, MySQL, MongoDB, Azure Table Storage
-- Development languages: ActionScript, ASP, ASP.NET, C#, CSS3, HTML5, JavaScript, PHP, Sass, SQL, TypeScript
-- Development platforms: Linux, iOS, OSX, Windows
-- LMS implementations: Moodle, Meridian, Saba, and Plateau
-- Microsoft Office Suite
-- Microsoft Active Directory and LDAP
-- SCORM conformance: 1.2, 2004
-- Section 508 compliance
-- Static site generators: Assemble.io, Jekyll / GitHub Pages
-- Unity3D
-- Version control: Git, Subversion, TFS
-- Web Development: Legacy, mobile-friendly, and responsive designs
-
 ## Activities / Volunteering
 
-- Blackbaud Intern Mentor
 - Camp Blackbaud Engineering Lead
 - Charleston WordCamp planning committee
 - City of Charleston Youth Football Coach
@@ -113,7 +98,6 @@ Internal duties included:
 - Winthrop University computer science lab instructor
 - Winthrop University lacrosse team captain
 - Winthrop University orientation assistant, peer mentor
-- Winthrop University prospective student / alumni volunteer
 
 ## Awards
 
@@ -124,11 +108,15 @@ Internal duties included:
 - Research, Delivery, and Operations - Director's Cut (Stache)
 - Research, Delivery, and Operations - Director's Cut (SKY UX)
 
-## Speaking / Training Engagements
+## Speaking Engagements
 
-- 2017 bbcon - SKY UX and Beyond
-- [2017 Syntax Con](https://2017.syntaxcon.com) - [Ready, Set, Release](https://www.youtube.com/watch?v=Ao0a7fh6olo)
-- 2016 SKY UX / AngularJS Internal Developer Training
-- 2016 Blackbaud Partner Summit - SKY UX Overview
-- 2016 bbcon - Building an application using SKY UX and SKY API
-- 2015 Blackbaud CRM Developer's Conference - BBIS/BBNC Custom Content Parts
+- 2015 Blackbaud Developer Conference, Charleston SC: Creating Custom Content Parts (top rated speaker)
+- 2015 Developer Workshop Conference, Indianapolis IN: Static Site Generators
+- 2015 Developer Workshop Conference, Indianapolis IN: Let Grunt and Travis be one of your best developers
+- 2015/2016 AngularJS Training, Charleston SC/Austin TX
+- 2016 Blackbaud Partner Summit Developer Day, Austin TX: SKY API + SKY UX
+- 2016 bbcon, Washington DC: Building an App using SKY UX and SKY API
+- 2017 SyntaxCon, Charleston, SC: Ready, Set, Release (Using GitHub + Travis CI for deployments)
+- 2017 bbcon, Baltimore MD: SKY UX and Beyond
+- 2017/2018 Angular/SKY UX Training, Charleston SC/Austin TX/Bedford NH
+- 2018 bbcon, Orlando FL: Deep Dive with SKY UX
