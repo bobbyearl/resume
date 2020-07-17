@@ -6,6 +6,7 @@
 - http://bobbyearl.com
 - https://github.com/blackbaud-bobbyearl
 - https://github.com/bobbyearl
+- https://linkedin.com/in/bobbyearl
 
 ## Education
 
@@ -14,9 +15,17 @@ Winthrop University, 2005
 
 ## Experience
 
+### Senior Principal Software Engineer / Developer Evangelist - Core Services - Blackbaud
+
+*04/2019 - current*
+
+- Highlighted the SKY Developer ecosystem by developing tutorials and applications in common, but non-Blackbaud, tech stacks such as PHP, NodeJS, and React.
+- Managed numerous 1:1 partner relationships including provided architecture guidance on topics around UI extensibility, SSO, and REST API usage.
+- Contributed unblocking feature requests to internal teams using C#, Cosmos, and Azure DevOps.
+
 ### Principal Software Engineer - Core Services - Blackbaud
 
-*07/2016 - present*
+*07/2016 - 04/2019*
 
 - Created SKY UX CLI, a NodeJS-based CLI tool for automating serving, building, and testing Angular single page applications.
 - Implemented Browserstack integration and supportal for all unit and end-to-end front-end testing.
@@ -120,3 +129,4 @@ Internal duties included:
 - 2017 bbcon, Baltimore MD: SKY UX and Beyond
 - 2017/2018 Angular/SKY UX Training, Charleston SC/Austin TX/Bedford NH
 - 2018 bbcon, Orlando FL: Deep Dive with SKY UX
+- 2019 bbcon, Nashville TN: SKY Developer Deep Dive
