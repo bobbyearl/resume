@@ -15,9 +15,26 @@ Winthrop University, 2005
 
 ## Experience
 
+### Front End Engineer - Katal Design System Tech Lead - Amazon
+
+*08/2021 - current*
+
+- Technical roadmap grooming, scoping, and estimation.
+- Created web-component enhancements including button group overflow and multi-select dropdown.
+- Mentored Junior Developer.
+- Internal Web Developer conference speaker - 'Debugging Typscript'.
+- Participated in candidate interview loops.
+
+### Front End Engineer - Infringement Reporting/Project Zero - Amazon
+
+*10/2020 - 08/2021*
+
+- Updated business logic across multiple front-end and backend tech stacks to support BREXIT requirements.
+- Implemented unit test structure and contributed to 100% code coverage across codebase.
+
 ### Senior Principal Software Engineer / Developer Evangelist - Core Services - Blackbaud
 
-*04/2019 - current*
+*04/2019 - 10/2020*
 
 - Highlighted the SKY Developer ecosystem by developing tutorials and applications in common, but non-Blackbaud, tech stacks such as PHP, NodeJS, and React.
 - Managed numerous 1:1 partner relationships including provided architecture guidance on topics around UI extensibility, SSO, and REST API usage.
